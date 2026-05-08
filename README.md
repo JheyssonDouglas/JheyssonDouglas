@@ -47,12 +47,11 @@ grandes volumes de dados em projetos estratégicos com impacto direto no negóci
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Atividade
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JheyssonDouglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JheyssonDouglas&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JheyssonDouglas.JheyssonDouglas)
+
+> 🚧 Projetos de portfólio chegando em breve — acompanhe!
 
 ---
 
